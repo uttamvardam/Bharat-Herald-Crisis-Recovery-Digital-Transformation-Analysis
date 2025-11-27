@@ -102,8 +102,6 @@ Real estate remains the **most dependable** category.
 ### Premium Trend
 Ad revenue per reader increased **30–36%**, while circulation dropped **5–6%** annually.
 
-*Visual reference: Tier-2 street markets and shops.*
-
 ---
 
 # Page 8 — Revenue Efficiency: The Patna Paradox
@@ -139,8 +137,6 @@ Cities: **Kanpur, Patna, Ranchi**
 ### Hidden Potential
 Low readiness but high engagement → *invest in infrastructure*  
 Cities: **Delhi, Jaipur**
-
-*Visual reference: 4-quadrant engagement-readiness matrix.*
 
 ---
 
@@ -197,8 +193,6 @@ High readiness + engagement + fast print decline
 - Mobile-first hyperlocal alerts  
 - App + WhatsApp subscriptions  
 - Automated content workflows  
-
-*Visual reference: Balanced scale with newspaper vs smartphone.*
 
 ---
 
