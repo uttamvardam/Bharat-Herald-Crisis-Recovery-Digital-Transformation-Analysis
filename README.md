@@ -73,7 +73,7 @@ Users want the content, but execution weaknesses *(speed, UX, workflows)* limit 
 
 ---
 
-# Page 6 — Ad Revenue by Category
+# Ad Revenue by Category
 
 ## Revenue Change (2019 → 2024)
 
@@ -89,7 +89,7 @@ Real estate remains the **most dependable** category.
 
 ---
 
-# Page 7 — Tier-2 Cities: Premium Monetisation Leaders
+# Tier-2 Cities: Premium Monetisation Leaders
 
 ## Revenue Growth (2019 → 2024)
 
@@ -104,7 +104,7 @@ Ad revenue per reader increased **30–36%**, while circulation dropped **5–6%
 
 ---
 
-# Page 8 — Revenue Efficiency: The Patna Paradox
+# Revenue Efficiency: The Patna Paradox
 
 ## Revenue Efficiency Comparison
 
@@ -122,7 +122,7 @@ Patna is **2× more profitable per reader** than Jaipur.
 
 ---
 
-# Page 9 — Digital Readiness vs Engagement Matrix
+# Digital Readiness vs Engagement Matrix
 
 ## Quadrant Analysis
 
@@ -140,7 +140,7 @@ Cities: **Delhi, Jaipur**
 
 ---
 
-# Page 10 — Digital Relaunch Priority Matrix
+# Digital Relaunch Priority Matrix
 
 ## Phase Classification
 
@@ -165,7 +165,7 @@ High readiness + engagement + fast print decline
 
 ---
 
-# Page 11 — Strategic Imperatives
+# Strategic Imperatives
 
 - Reduce print volume by **5–7%** → save ₹360M annually  
 - Fix **65.7% bounce rate** by improving:  
@@ -180,7 +180,7 @@ High readiness + engagement + fast print decline
 
 ---
 
-# Page 12 — The Dual Engine Strategy
+# The Dual Engine Strategy
 
 ## Print Engine — Revenue Stability
 - Protect Jaipur & Varanasi  
@@ -196,7 +196,7 @@ High readiness + engagement + fast print decline
 
 ---
 
-# Page 13 — The Path Forward
+# The Path Forward
 
 Bharat Herald is at a pivotal transformation point.
 
